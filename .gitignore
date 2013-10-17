@@ -1,0 +1,8 @@
+.DS_Store
+.jshintignore
+.idea/
+.sass-cache/
+.css
+*.log
+*.sassc
+.env
